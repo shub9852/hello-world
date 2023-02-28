@@ -1,4 +1,4 @@
-# Maven web application project 
+# Maven web application project  
 
 ### Clean fresh application code is available in hell-world-maven branch and hello-world-maven tag
 To clone the hello-world-maven branch
